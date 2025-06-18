@@ -108,3 +108,5 @@ If the input includes a `CTR` column (with `%`), the script will:
 For questions or improvements, feel free to open an issue or contribute!
 
 ```
+morgalut54@gmail.com
+```
