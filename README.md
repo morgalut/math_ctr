@@ -1,6 +1,5 @@
 # CTR_MATH
 
-```markdown
 # 📊 CTR Calculator: Google-Style Click-Through Rate
 
 This script processes a CSV file containing click and impression data (such as from Google Search Console) and calculates the **true Click-Through Rate (CTR)** in **decimal format** (e.g., `0.30234` instead of `"30.23%"`).
